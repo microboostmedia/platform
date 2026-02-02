@@ -1,0 +1,9 @@
+streamlit
+google-generativeai
+markdown
+jinja2
+requests
+pandas
+python-dotenv
+plotly
+cloudflare
